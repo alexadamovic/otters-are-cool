@@ -1,4 +1,18 @@
 body {
   background-color: rgb(238, 129, 87);
-  color: rgb(86, 218, 174);
+  color: rgb(14, 111, 136);
+  text-align: justify;
+}
+
+.bold {
+  : rgb(255, 253, 148);
+}
+
+li {
+  list-style-type: "🍩";
+  word-spacing: 10px;
+}
+
+p {
+  text-align: center;
 }
